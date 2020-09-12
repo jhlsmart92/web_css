@@ -1,5 +1,5 @@
 # web_css
-*Basic Css
-*Grid
-*Box model
-*Reactive Design
+* Basic Css
+* Grid
+* Box model
+* Reactive Design
